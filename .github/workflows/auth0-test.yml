@@ -24,4 +24,4 @@ jobs:
         run: |
           pwd
           ls -lrth
-          a0deploy import --input_file tenant.json --config_file ./config.json
+          a0deploy import --input_file . --config_file ./config.json

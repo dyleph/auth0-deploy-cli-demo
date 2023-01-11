@@ -1,7 +1,7 @@
 {
   "AUTH0_DOMAIN": "dev-bqht1hdei80g8sqh.us.auth0.com",
   "AUTH0_CLIENT_ID": "TDFcWtqEw0k6yMXlgI8LfTVQtVTPwnzE",
-  "AUTH0_CLIENT_SECRET": "TFtONOgAK5ov4IenHcXeuYsaqIeIN8qHMA6waO0PJgTYUWBHdc-5HbU1MOyXT3KE",
+  "AUTH0_CLIENT_SECRET": "",
   "AUTH0_ALLOW_DELETE": true,
   "EXCLUDED_PROPS": {
     "clients": [
