@@ -1,0 +1,6 @@
+{
+    "scripts": {
+      "export:test": "a0deploy export --strip --format directory --output_folder . --config_file ./config.json",
+      "import:test": "a0deploy import --input_file tenant.json --config_file ./config.json"
+    }
+}
