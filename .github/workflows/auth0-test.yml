@@ -21,4 +21,4 @@ jobs:
       - name: Import changes to the Auth0 staging account
         env:
           AUTH0_CLIENT_SECRET: ${{ secrets.TEST_AUTH0_CLIENT_SECRET }}
-        run: a0deploy import --input_file ./tenant.json --config_file ./config.json
+        run: a0deploy import --input_file tenant.json --config_file ./config.json
