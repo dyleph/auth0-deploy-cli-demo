@@ -1,0 +1,11 @@
+{
+  "enabled_locales": [
+    "en"
+  ],
+  "flags": {
+    "universal_login": true,
+    "revoke_refresh_token_grant": false,
+    "dashboard_new_onboarding": false,
+    "disable_clickjack_protection_headers": false
+  }
+}
